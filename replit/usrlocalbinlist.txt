@@ -1,0 +1,18 @@
+total 76M
+drwxr-xr-x 1 root staff 4.0K Jun 17 18:46 ./
+drwxrwsr-x 1 root staff 4.0K May 12 08:28 ../
+lrwxrwxrwx 1 root staff   42 May 27 02:07 babylon -> ../lib/node_modules/babylon/bin/babylon.js*
+-rwxrwxr-x 1 root root   116 May 12 08:28 docker-entrypoint.sh*
+lrwxrwxrwx 1 root staff   36 May 27 02:07 jest -> ../lib/node_modules/jest/bin/jest.js*
+-rwxr-xr-x 1 root staff  47M Apr  6 15:06 node*
+-rwxr-xr-x 1 root root   918 May 27 02:04 node-replay*
+lrwxrwxrwx 1 root root    19 May 12 08:28 nodejs -> /usr/local/bin/node*
+lrwxrwxrwx 1 root staff   38 Apr  6 15:06 npm -> ../lib/node_modules/npm/bin/npm-cli.js*
+lrwxrwxrwx 1 root staff   38 Apr  6 15:06 npx -> ../lib/node_modules/npm/bin/npx-cli.js*
+lrwxrwxrwx 1 root staff   44 May 27 02:07 prettier -> ../lib/node_modules/prettier/bin-prettier.js*
+lrwxrwxrwx 1 root staff   38 May 27 02:07 tsc -> ../lib/node_modules/typescript/bin/tsc*
+lrwxrwxrwx 1 root staff   43 May 27 02:07 tsserver -> ../lib/node_modules/typescript/bin/tsserver*
+lrwxrwxrwx 1 root staff   57 May 27 02:07 typescript-language-server -> ../lib/node_modules/typescript-language-server/lib/cli.js*
+-rwxr-xr-x 1 root root   29M Jun 17 18:10 upm*
+lrwxrwxrwx 1 root root    26 May 12 08:28 yarn -> /opt/yarn-v1.22.5/bin/yarn*
+lrwxrwxrwx 1 root root    29 May 12 08:28 yarnpkg -> /opt/yarn-v1.22.5/bin/yarnpkg*
